@@ -1,7 +1,6 @@
 - 👋 Hola soy @DiSaRD_T4S
 
 - 🌱 Actualmente estoy aprendiendo aprogramar
-- 
 - 📫 Como contactarme en DiSaRD_T4S@proton.me
 
 <!---
