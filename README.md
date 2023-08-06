@@ -2,7 +2,7 @@
 
 - 🌱 Actualmente estoy aprendiendo aprogramar
 - 
-- 📫 Como contactarme en holabarrientosjorge@gmail.com
+- 📫 Como contactarme en DiSaRD_T4S@proton.me
 
 <!---
 DiSaRD_T4S/ DiSaRD_T4S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
